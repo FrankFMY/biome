@@ -1,5 +1,12 @@
 # @biomejs/biome
 
+## 2.3.15
+
+### Patch Changes
+
+- [#8930](https://github.com/biomejs/biome/pull/8930) [`51c158e`](https://github.com/biomejs/biome/commit/51c158e803f9bad561cf5b79365c339e9069d614) Thanks [@ANKANJAGTAP](https://github.com/ANKANJAGTAP)! - Fixed #8917
+  [useExhaustiveDependencies](https://biomejs.dev/linter/rules/use-exhaustive-dependencies/) now correctly detects JSX component identifiers as hook dependencies.
+
 ## 2.3.14
 
 ### Patch Changes
